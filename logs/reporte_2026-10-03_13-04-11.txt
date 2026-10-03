@@ -1,0 +1,22 @@
+===============================
+  REPORTE DE SALUD — 2026-10-03_13-04-11
+===============================
+
+--- CPU ---
+Uso CPU: 4.8%
+
+--- MEMORIA ---
+Total: 3.4Gi | Usado: 1.3Gi | Libre: 1.5Gi
+
+--- DISCO ---
+Total: 31.7G | Usado: 1.3G | Libre: 28.7G | Uso: 4%
+
+--- PROCESOS TOP 5 (por CPU) ---
+/usr/lib/firefox/firefox CPU: 2.8%
+/usr/libexec/Xorg    CPU: 1.6%
+/usr/lib/firefox/firefox CPU: 0.8%
+/usr/lib/firefox/firefox CPU: 0.4%
+xfce4-panel          CPU: 0.2%
+
+--- UPTIME ---
+ 13:04:11 up  1:32,  0 users,  load average: 0.01, 0.01, 0.01

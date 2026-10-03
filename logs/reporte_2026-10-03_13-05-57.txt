@@ -1,0 +1,22 @@
+===============================
+  REPORTE DE SALUD — 2026-10-03_13-05-57
+===============================
+
+--- CPU ---
+Uso CPU: 6.8%
+
+--- MEMORIA ---
+Total: 3.4Gi | Usado: 1.4Gi | Libre: 1.5Gi
+
+--- DISCO ---
+Total: 31.7G | Usado: 1.3G | Libre: 28.7G | Uso: 4%
+
+--- PROCESOS TOP 5 (por CPU) ---
+/usr/lib/firefox/firefox CPU: 2.8%
+/usr/libexec/Xorg    CPU: 1.6%
+/usr/lib/tumbler-1/tumblerd CPU: 1.6%
+/usr/lib/firefox/firefox CPU: 0.8%
+/usr/lib/firefox/firefox CPU: 0.4%
+
+--- UPTIME ---
+ 13:05:57 up  1:34,  0 users,  load average: 0.32, 0.08, 0.03
